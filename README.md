@@ -1,2 +1,1 @@
-# viraldood
-viraldood
+# [viraldood](https://viraldood.pages.dev)
